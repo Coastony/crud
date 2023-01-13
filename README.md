@@ -1,2 +1,2 @@
 # crud
-CRUD(Create, Readm Update and Delete) with PHP 8
+CRUD(Create, Read Update and Delete) with PHP 8
