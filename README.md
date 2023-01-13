@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
- <img src="images/cadastro.png" width="550" alt="Image project">
+ <img src="images/cadastro1.png" width="550" alt="Image project">
 </p>
 
 ## 📁 Project access
