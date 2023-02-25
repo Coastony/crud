@@ -6,14 +6,7 @@
  
  ## ✔️ Techniques and technologies used
 
-- ``HTML5``
-- ``CSS3``
-- ``JavaScript``
-- ``Bootstrap``
-- ``PHP``
-- ``XAMPP``
-- ``MySQL``
-- ``PhpMyAdmin``
+- ``HTML5`` ``CSS3`` ``JavaScript`` ``Bootstrap`` ``PHP`` ``XAMPP`` ``MySQL`` ``PhpMyAdmin``
 
 <br>
 
