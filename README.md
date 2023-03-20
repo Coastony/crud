@@ -16,4 +16,4 @@
 You can access the project files by clicking [here](https://github.com/Coastony/crud)
 
 ## 🔎 Link of project
-[App Send Mail](https://www.linkedin.com/posts/sergiobsantos_php-mysql-phpmyadmin-activity-7019759121360990208-wPKs?utm_source=share&utm_medium=member_desktop)
+[User Registration(CRUD)](https://www.linkedin.com/posts/sergiobsantos_php-mysql-phpmyadmin-activity-7019759121360990208-wPKs?utm_source=share&utm_medium=member_desktop)
